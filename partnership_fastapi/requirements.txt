@@ -1,0 +1,12 @@
+dotenv
+fastapi
+io
+os
+pandas
+pymongo
+re
+starlette
+shutil
+typing
+uvicorn
+zipfile
